@@ -111,29 +111,6 @@ function generatePassword() {
 
 
 
-// User POV
-// See a red generate button password and box where a password is supposed to go
-	// HTML button and text area elements- wirecc/figma
-// User click generate password button
-
-	// addeventlistener to click
-		// function: Give user an option (lowercase)
-    // function: Uppercase
-		// function: Symbols
-		// function: Numbers
-		// function: length
-
-// List of options that allow the user to choose lowercase, uppercase, symbols and numbers
-	// We can use an input field. We can use prompt or confirm to do this.
-
-// Password is generated after options are chosen 
-
-
-	// Modular functions to generate random characters 
-
-
-
-
 
 
 
